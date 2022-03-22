@@ -12,6 +12,10 @@ namespace Oylama
         {
             Username = username;
         }
+        public Kullanıcı()
+        {
+            
+        }
 
         public void KullanıcıKaydet(List<Kullanıcı> list,string username)
         {

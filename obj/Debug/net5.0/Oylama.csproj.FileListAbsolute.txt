@@ -1,0 +1,16 @@
+C:\Users\Furkan Cengiz\Desktop\Oylama\bin\Debug\net5.0\Oylama.exe
+C:\Users\Furkan Cengiz\Desktop\Oylama\bin\Debug\net5.0\Oylama.deps.json
+C:\Users\Furkan Cengiz\Desktop\Oylama\bin\Debug\net5.0\Oylama.runtimeconfig.json
+C:\Users\Furkan Cengiz\Desktop\Oylama\bin\Debug\net5.0\Oylama.runtimeconfig.dev.json
+C:\Users\Furkan Cengiz\Desktop\Oylama\bin\Debug\net5.0\Oylama.dll
+C:\Users\Furkan Cengiz\Desktop\Oylama\bin\Debug\net5.0\Oylama.pdb
+C:\Users\Furkan Cengiz\Desktop\Oylama\obj\Debug\net5.0\Oylama.csproj.AssemblyReference.cache
+C:\Users\Furkan Cengiz\Desktop\Oylama\obj\Debug\net5.0\Oylama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Cengiz\Desktop\Oylama\obj\Debug\net5.0\Oylama.AssemblyInfoInputs.cache
+C:\Users\Furkan Cengiz\Desktop\Oylama\obj\Debug\net5.0\Oylama.AssemblyInfo.cs
+C:\Users\Furkan Cengiz\Desktop\Oylama\obj\Debug\net5.0\Oylama.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Cengiz\Desktop\Oylama\obj\Debug\net5.0\Oylama.dll
+C:\Users\Furkan Cengiz\Desktop\Oylama\obj\Debug\net5.0\refint\Oylama.dll
+C:\Users\Furkan Cengiz\Desktop\Oylama\obj\Debug\net5.0\Oylama.pdb
+C:\Users\Furkan Cengiz\Desktop\Oylama\obj\Debug\net5.0\Oylama.genruntimeconfig.cache
+C:\Users\Furkan Cengiz\Desktop\Oylama\obj\Debug\net5.0\ref\Oylama.dll

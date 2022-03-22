@@ -1,4 +1,6 @@
 using System;
+using System.Collections.Generic;
+using Oylama.Karegoriler;
 
 namespace Oylama
 {
@@ -8,7 +10,11 @@ namespace Oylama
         {
             Console.WriteLine("Merhabalar. Dizi, film ve oyun kategorilerinden herhangi birini seçip oylamaya katılabilirsiniz"+ 
             "veya sisteme yeni bir kullanıcı kaydedebilirsiniz.\n"+
-            "Diziler(1)\nFilmler(2)\nOyunlar(3)\nYeni kullanıcı kaydetme(4)\nLütfen cevabınızı giriniz:");
+            "Diziler(1)\nFilmler(2)\nOyunlar(3)\nYeni kullanıcı kaydetme(4)\nOy durumunu inceleme(5)\nÇıkış yapmak için(6)\nLütfen cevabınızı giriniz:");
+        }
+        public void KategoriMesajı()
+        {
+            
         }
         public int IslemSecme() // switch-case yapısında kullanacağım, ilk mesajda kullanıcından istediğim işlem numarasını döndüren metot.
         {
@@ -44,6 +50,7 @@ namespace Oylama
             "God Of War(3)\n"+
             "Sekiro(4)");
         }//  Crysis 3 God Of War Sekiro
-
+        
+            
     }
 }
